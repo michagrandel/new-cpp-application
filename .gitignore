@@ -1,0 +1,27 @@
+# local configuration files
+*.local
+local/
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Distribution directories
+dist/
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Executable
+*.exe
+*.out
