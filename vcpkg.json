@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "0.1.0",
+  "dependencies": [
+    "cli11",
+    "spdlog"
+  ],
+  "overrides": [
+    {
+      "name": "spdlog",
+      "version": "1.15.3"
+    }
+  ]
+}
